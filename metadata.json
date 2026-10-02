@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Berbagi di Desa Harmoni",
+  "description": "Game edukasi matematika kelas 4 interaktif: konsep pembagian sebagai pengurangan berulang dan penalaran HOTS bersama Pak Kepala Desa Harmoni.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
